@@ -1,45 +1,45 @@
-Hi, I'm Anshika 
+# Hi, I'm Anshika 
 B.Tech AIML Student (3rd Year)
 Passionate about solving problems and building real-world applications.
 
-Currently Learning 
+## Currently Learning 
 - FastAPI Backend Development
 - System Design & OOP
 - Data Structures & Algorithms
 - Machine Learning
 
-Current Goals
+## Current Goals
 - Solve 300+ DSA problems
 - Build end-to-end FastAPI projects
 - Prepare for Software Engineering internships
 - Become industry-ready in Backend Development
 
-Tech Stack
-# Languages
+## Tech Stack
+### Languages
 - C++
 - Python
 - SQL
 
-# Backend
+### Backend
 - FastAPI
 - Pydantic
 - REST APIs
 
-# Tools
+### Tools
 - Git
 - GitHub
 - VS Code
 - MySQL
 
-Featured Repositories
-# FastAPI Learning
+## Featured Repositories
+### FastAPI Learning
 Building an E-Commerce backend while learning:
 - CRUD Operations
 - Response Models
 - Dependency Injection
 - Validation with Pydantic
 
-# EPAM OOP Problems
+### EPAM OOP Problems
 Collection of object-oriented programming problems focusing on:
 - Encapsulation
 - Inheritance
@@ -47,7 +47,7 @@ Collection of object-oriented programming problems focusing on:
 - Abstraction
 - System Design Thinking
 
-# Striver SDE Sheet
+### Striver SDE Sheet
 My journey of mastering Data Structures & Algorithms through consistent problem solving.
 
 Reach me : anshika2907sharma@gmail.com
