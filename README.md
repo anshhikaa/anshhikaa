@@ -52,7 +52,7 @@ My journey of mastering Data Structures & Algorithms through consistent problem 
 
 * Reach me : anshika2907sharma@gmail.com
 * LinkedIn : www.linkedin.com/in/anshika05sharma
-* Leetcode : anshhika_05 
+* Leetcode : https://leetcode.com/u/anshhika_05/ 
 
 <!---
 anshhikaa/anshhikaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
