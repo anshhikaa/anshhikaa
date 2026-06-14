@@ -50,9 +50,9 @@ Collection of object-oriented programming problems focusing on:
 ### Striver SDE Sheet
 My journey of mastering Data Structures & Algorithms through consistent problem solving.
 
-Reach me : anshika2907sharma@gmail.com
-LinkedIn : www.linkedin.com/in/anshika05sharma
-Leetcode : anshhika_05 
+* Reach me : anshika2907sharma@gmail.com
+* LinkedIn : www.linkedin.com/in/anshika05sharma
+* Leetcode : anshhika_05 
 
 <!---
 anshhikaa/anshhikaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
