@@ -7,7 +7,8 @@ Passionate about solving problems and building real-world applications.
 - System Design & OOP
 - Data Structures & Algorithms
 - Machine Learning
-
+## Active Project 
+- PlankCoach : Computer Vison and Machine Learning
 ## Current Goals
 - Solve 300+ DSA problems
 - Build end-to-end FastAPI projects
@@ -30,8 +31,19 @@ Passionate about solving problems and building real-world applications.
 - GitHub
 - VS Code
 - MySQL
+- OpenCV
+- Mediapipe
+- Numpy
 
 ## Featured Repositories
+### PlankCoach
+Building an AI-Plank-Posture corrector
+- Opencv capture real time posture
+- Mediapipe marks the landmarks
+- Plank geometry using math operations of numpy
+- Rule based posture analysis 
+- Readme Updates alongside building
+  
 ### FastAPI Learning
 Building an E-Commerce backend while learning:
 - CRUD Operations
